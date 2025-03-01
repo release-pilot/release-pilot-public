@@ -1,5 +1,10 @@
 ## **Release Planner 🚀**
 
+
+<p align="center">
+    <img src="./Single_mainlogo_tm.png" alt="Release Planner Icon"  height="100%">
+</p>
+
 ### **Overview**  
 The **Release Planner** is a streamlined application designed to help teams efficiently manage software releases. It provides structured access to repositories, release notes, and version tags, ensuring smooth coordination across multiple products.
 
