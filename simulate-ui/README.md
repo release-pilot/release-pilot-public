@@ -8,8 +8,7 @@ A developer tool built with React and Material UI to simulate and test redirecti
 
 ## 🔗 Live Site
 
-👉 [Visit the Simulate-UI](https://open-source.releasepilot.com/simulate-ui)  
-_Replace this with your actual deployed link (e.g., Vercel, Netlify, or GitHub Pages)._
+👉 [Visit the Simulate-UI](https://open-source.releasepilot.com/simulate-ui
 
 ## 🚀 Features
 
