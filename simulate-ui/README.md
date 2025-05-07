@@ -8,7 +8,7 @@ A developer tool built with React and Material UI to simulate and test redirecti
 
 ## 🔗 Live Site
 
-👉 [Visit the Simulate-UI](https://open-source.releasepilot.com/simulate-ui
+👉 [Visit the Simulate-UI](https://open-source.releasepilot.com/simulate-ui)  
 
 ## 🚀 Features
 
