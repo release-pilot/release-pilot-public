@@ -1,4 +1,4 @@
-## **Redirection Journey Simulator 🚀**
+## **Simulate-UI 🚀**
 
 <p align="center">
     <img src="./Single_mainlogo_tm.png" alt="Release Planner Icon"  height="100%">
