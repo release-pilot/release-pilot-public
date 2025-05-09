@@ -12,7 +12,8 @@ A developer tool built with React and Material UI to simulate and test redirecti
 
 ## 🚀 Features
 
-- ✅ Easy-to-use UI for entering and testing redirection paths.
-- 🎯 Success and failure scenarios to validate conditional logic.
-- 🧪 Real-time simulation of user input and redirection behavior.
-- 🎨 Built with Material UI for a responsive and clean interface.
+- ✅ **Simulate Success & Failure redirects**
+- 📥 **Stores URLs in localStorage** so you don't need to re-enter them
+- 🔒 **Hides inputs once URLs are saved**, keeping UI clean
+- 👁️ **URL preview with icons** for quick identification
+- 🎨 Built with **Material UI** for responsive, modern design
