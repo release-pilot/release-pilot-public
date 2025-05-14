@@ -15,7 +15,7 @@ The **Release Planner** is a streamlined application designed to help teams effi
 ✅ **Branding & Aesthetics** – Includes a centered brand logo, descriptive headlines, and a footer message: _"Made with love from India ❤️🇮🇳"._  
 
 ---
-👉 [Visit the Release Planner](`https://app.releasepilot.com/release-planner`)
+👉 [Visit the Release Planner](https://app.releasepilot.com/release-planner)
 
 ---
 
