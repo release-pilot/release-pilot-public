@@ -13,6 +13,12 @@ A beautiful, motivating, and feature-rich task management utility designed to he
 
 The Daily Tasks Bucket is part of the Release Pilot Toolbox - a comprehensive productivity suite. This utility transforms your daily task management into an inspiring and visually appealing experience that keeps you motivated throughout the day.
 
+
+## 🔗 Live Site
+
+👉 [Visit the Bucket List](http://localhost:3000/daily-tasks)  
+
+
 ## ✨ Key Features
 
 ### 🎯 **Core Functionality**
