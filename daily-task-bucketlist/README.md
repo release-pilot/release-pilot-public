@@ -16,7 +16,7 @@ The Daily Tasks Bucket is part of the Release Pilot Toolbox - a comprehensive pr
 
 ## 🔗 Live Site
 
-👉 [Visit the Bucket List](http://localhost:3000/daily-tasks)  
+👉 [Visit the Bucket List](https://open-source.releasepilot.com/daily-tasks)  
 
 
 ## ✨ Key Features
