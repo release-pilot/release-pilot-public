@@ -1,4 +1,4 @@
-# 📋 Daily Tasks Bucket
+# 📋 Daily Tasks Bucket 🚀
 
 A beautiful, motivating, and feature-rich task management utility designed to help you organize your day and achieve your goals with style and positivity.
 
