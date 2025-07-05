@@ -17,3 +17,7 @@ A developer tool built with React and Material UI to simulate and test redirecti
 - 🔒 **Hides inputs once URLs are saved**, keeping UI clean
 - 👁️ **URL preview with icons** for quick identification
 - 🎨 Built with **Material UI** for responsive, modern design
+
+
+*Made with ❤️ as part of the Release Pilot Toolbox* 
+### **Made with ❤️ from India 🇮🇳**  
