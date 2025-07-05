@@ -18,6 +18,15 @@ A developer tool built with React and Material UI to simulate and test redirecti
 - 👁️ **URL preview with icons** for quick identification
 - 🎨 Built with **Material UI** for responsive, modern design
 
+## 💛 Donate Back – Not Just Money
+If Release Pilot boosted your productivity by 0.1%—give back through impact, not money 🌟
+
+🤝 Help others
+👥 Mentor fellow developer
+🚀 Share opportunities
+💡 Contribute skills
+❤️ Spread kindness
+Every small action matters. Let your gratitude become someone else's breakthrough. 🙌
 
 *Made with ❤️ as part of the Release Pilot Toolbox* 
 ### **Made with ❤️ from India 🇮🇳**  

@@ -252,5 +252,15 @@ We'd love to hear how this tool helps with your daily productivity! The motivati
 
 **Remember**: Every task completed is a victory! 🏆 Use this tool to transform your daily routine into an inspiring journey toward your goals. ✨
 
+## 💛 Donate Back – Not Just Money
+If Release Pilot boosted your productivity by 0.1%—give back through impact, not money 🌟
+
+🤝 Help others
+👥 Mentor fellow developer
+🚀 Share opportunities
+💡 Contribute skills
+❤️ Spread kindness
+Every small action matters. Let your gratitude become someone else's breakthrough. 🙌
+
 *Made with ❤️ as part of the Release Pilot Toolbox* 
 ### **Made with ❤️ from India 🇮🇳**  
