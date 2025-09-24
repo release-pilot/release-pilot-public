@@ -17,7 +17,7 @@ The **Release Planner** is a streamlined application designed to help teams effi
 ✅ **JSON Upload** – Import a `.json` file to populate the entire form.
 
 ---
-👉 [Visit the Release Planner](https://app.releasepilot.com/release-planner)
+👉 [Visit the Release Planner](https://open-source.releasepilot.com/release-planner)
 
 ---
 
