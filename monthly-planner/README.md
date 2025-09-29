@@ -29,6 +29,12 @@ An interactive calendar-based task planner that lets you add, view, and manage t
 5. Scroll down to see "All Tasks by Date". Each date shows task cards with metadata badges and comments.
 6. Click Export to download the current task dataset as JSON. Click Import to load a previously exported JSON dataset.
 
+
+---
+👉 [Visit the Monthly Planner](https://open-source.releasepilot.com/monthly-planner)
+
+---
+
 ### Data Persistence
 - All tasks are saved under the storage key: `monthlyPlanner.tasks.v1`.
 - Data is auto-loaded on mount and auto-saved on any change.
