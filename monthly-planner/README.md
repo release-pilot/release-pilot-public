@@ -1,7 +1,7 @@
 ## **Monthly Planner 🚀**
 
 <p align="center">
-    <img src="./Single_mainlogo_tm.png" alt="Release Planner Icon"  height="100%">
+    <img src="../release-planner/Single_mainlogo_tm.png" alt="Release Planner Icon"  height="100%">
 </p>
 
 An interactive calendar-based task planner that lets you add, view, and manage tasks by day, with localStorage persistence and JSON import/export.
