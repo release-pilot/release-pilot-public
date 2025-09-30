@@ -4,7 +4,13 @@
     <img src="../release-planner/Single_mainlogo_tm.png" alt="Release Planner Icon"  height="100%">
 </p>
 
-An interactive calendar-based task planner that lets you add, view, and manage tasks by day, with localStorage persistence and JSON import/export.
+<p align="center">
+    <a href="https://github.com/release-pilot/release-pilot-public/tree/master/monthly-planner">
+        <img src="https://img.shields.io/badge/GitHub-View%20Source-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Source">
+    </a>
+</p>
+
+An interactive calendar-based task planner that lets you add, view, and manage tasks by day, with localStorage persistence, JSON import/export, and PDF report generation.
 
 ### Route
 - Path: `/monthly-planner`
@@ -19,15 +25,17 @@ An interactive calendar-based task planner that lets you add, view, and manage t
 - Animated, modern UI with creative bottom section listing all tasks grouped by date
 - Local persistence using `localStorage`
 - JSON export and import (validated), with backfill for older imports
+- **PDF export** with professional reports including task summaries and assignee breakdowns
 - Release Pilot logo branding on the planner header
 
 ### How It Works
 1. Navigate to `/monthly-planner`.
 2. Change month/year using the controls at the top.
 3. For any day cell, click "Add" to open the modal and enter task details. Start/End dates default to the selected day.
-4. Tasks added for a day appear in the day’s modal table and influence the per-day indicator dot.
+4. Tasks added for a day appear in the day's modal table and influence the per-day indicator dot.
 5. Scroll down to see "All Tasks by Date". Each date shows task cards with metadata badges and comments.
-6. Click Export to download the current task dataset as JSON. Click Import to load a previously exported JSON dataset.
+6. Click "Export JSON" to download the current task dataset as JSON. Click "Export PDF" to generate a professional report with task summaries.
+7. Click "Import" to load a previously exported JSON dataset.
 
 
 ---
